@@ -1,4 +1,4 @@
-# Basilicata, Italy - Land Use & Land Cover (LULC) 2024 (10m Resolution)
+![Basilicata Italy Land Use Land Cover 2024 Map](basilicata-italy-land-use-land-cover-dark-mode-map.png)
 
 This repository contains the professional styling assets and metadata for the Basilicata LULC dataset based on the latest 2024 Sentinel-2 AI classification.
 
